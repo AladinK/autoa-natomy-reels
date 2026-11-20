@@ -16,7 +16,9 @@
     "engine"
   ],
   "wave": 1,
-  "status": "ig_unverified",
-  "note": "Instagram create_video_post timed out at ~08:14Z (outcome unknown); re-send was blocked. Check the IG feed before re-posting.",
-  "yt": "AX6PlHWCEZg"
+  "status": "posted",
+  "yt": "AX6PlHWCEZg",
+  "ig": "18105141200637379",
+  "ig_permalink": "https://www.instagram.com/reel/Df9M75Bgdna/",
+  "posted_at": "2026-11-20T08:21:45Z"
 }
