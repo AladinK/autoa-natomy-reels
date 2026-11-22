@@ -18,3 +18,4 @@ Changes made 2026-11-22 (user decisions: 1 reel a day, same 3D look but better):
 - Topic shortlist: named enthusiast tech and counterintuitive claims (VTEC vs VANOS vs VVT-i first), follow-ups of any breakout.
 - Publisher waves 1/2/3 unchanged: they post what is queued and upload the capped YouTube backlog (2 + 1 + 1 per day).
 Review: after 5-7 days compare the 30 s reels against the old median (1.8k views) on views, skip rate, avg watch time, shares, saves, comments, and log it here.
+2026-11-22 #52 VTEC vs VANOS vs VVT-i, hook "Only one swaps the cam lobe", 30 s, 30 s concept (queued wave 2, posts 11:07)
