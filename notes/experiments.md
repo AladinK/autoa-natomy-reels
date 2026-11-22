@@ -11,5 +11,10 @@ Instagram data, 42 reels, 2026-11-17 to 2026-11-21 (account has 79 followers; ab
 - 0 comments on 42 reels (no reason to talk). All reels use the same "Did you know?" hook and the same 8 x 6 s template.
 - Posting 12/day gave no extra reach per reel. YouTube showed the same pattern (first upload of the day 1-2k views, later ones 0-55).
 
-Change made 2026-11-22: producer tasks "Auto Anatomy daily video 3/12" to "12/12" paused (enabled=false). Slots 1 and 2 are pending the user's decision. Publisher waves unchanged (they only publish what is queued and upload the capped YouTube backlog).
-Next: see the new concept proposal in the session; log its result here after the first posts.
+Changes made 2026-11-22 (user decisions: 1 reel a day, same 3D look but better):
+- All 12 old producer tasks ("Auto Anatomy daily video 1/12" to "12/12") paused (enabled=false), not deleted.
+- New producer task "Auto Anatomy quality reel (1 per day)", 05:03 Europe/Belgrade, queues one reel with wave 2 so it posts at 11:07 (the three best reels were posted between 10:49 and 13:11 Belgrade time).
+- New format ("30 s concept"): 30 s = 5 scenes x 6 s, money shot and big claim text from frame 0, first spoken line is the claim, aha by about second 15, last scene asks a comment question, caption = hook claim + question + 4 hashtags, closer cutaways and more camera motion, quality gate on the finished mp4 (skip the day rather than ship a weak reel).
+- Topic shortlist: named enthusiast tech and counterintuitive claims (VTEC vs VANOS vs VVT-i first), follow-ups of any breakout.
+- Publisher waves 1/2/3 unchanged: they post what is queued and upload the capped YouTube backlog (2 + 1 + 1 per day).
+Review: after 5-7 days compare the 30 s reels against the old median (1.8k views) on views, skip rate, avg watch time, shares, saves, comments, and log it here.
