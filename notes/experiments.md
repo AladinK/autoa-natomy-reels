@@ -25,3 +25,10 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 - New ending: every reel ends with "Want to make videos like this? Comment the word SKILL." (big COMMENT SKILL text at the top from 25.8 s). Commenters get a DM with a paid offer for the reel-making skill. Track comments per reel from now on.
 - #52 after ~8 h: 2.4k views, skip rate 43%, avg watch 13.2 s, 2 shares, 10 saves (hook "Only one swaps the cam lobe" too abstract). Next hooks: a plain surprising claim.
 2026-11-22 #53 Why Mazda rotary engines burn oil on purpose, hook "IT BURNS OIL ON PURPOSE", 30 s, 30 s concept + SKILL CTA (queued wave 2)
+
+## 2026-11-22 19:43 Belgrade: SKILL comment responder, first run
+- Instagram comments, last 7 days (Windsor): 5 comments on 3 older reels (posted 18-20 Nov), none contains "skill", so 0 replies were sent. The SKILL call to action only started today with #53, so no SKILL comments were expected yet.
+- Windsor returns cached comments; the current plan has no refresh on request, so new SKILL comments can show up a few hours late.
+- PayPal list_transactions failed with 401 Unauthorized (twice), so payments were NOT checked. Fix: reconnect the PayPal connector in Claude settings.
+- Created notes/skill_replies.txt (empty; replied comment_ids get appended there).
+- User notified by push.
