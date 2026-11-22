@@ -19,3 +19,9 @@ Changes made 2026-11-22 (user decisions: 1 reel a day, same 3D look but better):
 - Publisher waves 1/2/3 unchanged: they post what is queued and upload the capped YouTube backlog (2 + 1 + 1 per day).
 Review: after 5-7 days compare the 30 s reels against the old median (1.8k views) on views, skip rate, avg watch time, shares, saves, comments, and log it here.
 2026-11-22 #52 VTEC vs VANOS vs VVT-i, hook "Only one swaps the cam lobe", 30 s, 30 s concept (queued wave 2, posts 11:07)
+
+## 2026-11-22 evening: at least 6 reels a day + SKILL call to action (user decisions)
+- The user asked for at least 6 reels a day at the 30 s quality bar (not 1). Six producer tasks "Auto Anatomy quality reel 1/6" to "6/6" run 05:03-05:23 Belgrade; slots 1-2 queue wave 1, 3-4 wave 2, 5-6 wave 3. Topic and idea number are deterministic per slot (K-th unused slug of a fixed shortlist, N = highest number before today + K) so parallel slots never collide.
+- New ending: every reel ends with "Want to make videos like this? Comment the word SKILL." (big COMMENT SKILL text at the top from 25.8 s). Commenters get a DM with a paid offer for the reel-making skill. Track comments per reel from now on.
+- #52 after ~8 h: 2.4k views, skip rate 43%, avg watch 13.2 s, 2 shares, 10 saves (hook "Only one swaps the cam lobe" too abstract). Next hooks: a plain surprising claim.
+2026-11-22 #53 Why Mazda rotary engines burn oil on purpose, hook "IT BURNS OIL ON PURPOSE", 30 s, 30 s concept + SKILL CTA (queued wave 2)
