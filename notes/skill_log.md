@@ -8,3 +8,4 @@ To pause the offer (no more PayPal replies), set "offer_active" to false in note
 2026-11-22 22:43 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped)
 2026-11-23 00:10 | SKILL offer paused (user decision): PayPal connector disconnected, so no PayPal links go out (offer_active false in notes/skill_state.json). Reels keep posting as before. New responder prompt (auto-resume when PayPal works, no PayPal nagging, invites only for new sales) is in notes/skill_responder_prompt.md and still has to be applied to the scheduled task
 2026-11-23 00:43 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped); offer paused (offer_active false)
+2026-11-23 02:44 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped); offer paused (offer_active false)
