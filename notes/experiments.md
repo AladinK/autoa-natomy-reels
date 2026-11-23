@@ -33,3 +33,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 - Created notes/skill_replies.txt (empty; replied comment_ids get appended there).
 - User notified by push.
 2026-11-23 #54 How BMW Valvetronic controls power without a throttle (bmw-valvetronic-no-throttle), hook "NO THROTTLE NEEDED", 30 s, 30 s concept, SKILL CTA, slot 1 (queued wave 1)
+2026-11-23 #56 cylinder-deactivation-v8-as-v4, hook "THIS V8 TURNS INTO A V4", 30 s concept, SKILL CTA, slot 3
