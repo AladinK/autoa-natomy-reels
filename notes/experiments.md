@@ -36,3 +36,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-23 #56 cylinder-deactivation-v8-as-v4, hook "THIS V8 TURNS INTO A V4", 30 s concept, SKILL CTA, slot 3
 2026-11-23 #58 koenigsegg-freevalve-no-camshaft, hook "THIS ENGINE HAS NO CAMSHAFT", 30 s concept, SKILL CTA, slot 5
 2026-11-23 #57 mazda-skyactiv-x-compression-ignition, hook "PETROL ENGINE IGNITES LIKE A DIESEL", 30 s concept, SKILL CTA, slot 4
+2026-11-23 #59 How a twin-scroll turbo fights turbo lag (twin-scroll-turbo-lag), hook "YOUR EXHAUST FIGHTS ITSELF", 30 s concept, SKILL CTA, slot 6 (queued wave 3)
