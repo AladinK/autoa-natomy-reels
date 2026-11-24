@@ -11,3 +11,4 @@ To pause the offer (no more PayPal replies), set "offer_active" to false in note
 2026-11-23 02:44 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped); offer paused (offer_active false)
 2026-11-23 04:43 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped); offer paused (offer_active false)
 2026-11-23 10:45 | replies 0 (reels: -) | waiting 0 | offer resumed: PayPal connector works again (list_transactions returned normally, no 401), so offer_active set back to true per the standing auto-resume decision; 0 SKILL comments were waiting, so no replies went out | errors: -
+2026-11-24 22:42 | replies 1 (reels: DgH7DkwlUy8) | waiting 0 | errors: -
