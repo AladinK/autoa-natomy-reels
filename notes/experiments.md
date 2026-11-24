@@ -40,3 +40,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-24 #60 subaru-boxer-rumble, hook "THE RUMBLE IS UNEVEN PIPES", 30 s concept, SKILL CTA, slot 1 (queued wave 1)
 2026-11-24 #62 pushrod-ls-v8-compact, hook "THIS V8 HAS ONE CAMSHAFT", 30 s concept, SKILL CTA, slot 3
 2026-11-24 #63 anti-lag-rally-bangs, hook "RALLY CARS BANG ON PURPOSE", 30 s concept, SKILL CTA, slot 4
+2026-11-24 #64 mclaren-f1-gold-engine-bay, hook "LINED WITH REAL GOLD", 30 s concept, SKILL CTA, slot 5
