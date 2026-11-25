@@ -46,3 +46,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-25 #68 blow-off-valve-pssh, hook "THAT PSSH PROTECTS YOUR TURBO", 30 s concept, SKILL CTA, slot 3
 2026-11-25 #67 bugatti-w16-four-turbos, hook "4 TURBOS, 2 ARE ASLEEP", 30 s concept, SKILL CTA, slot 2
 2026-11-25 #70 porsche-911-rear-engine, hook "ENGINE IN THE WRONG PLACE", 30 s concept, SKILL CTA, slot 5 (queued wave 3)
+2026-11-25 #69 nissan-vc-turbo-variable-compression, hook "THIS ENGINE RESHAPES ITSELF", 30 s concept, SKILL CTA, slot 4
