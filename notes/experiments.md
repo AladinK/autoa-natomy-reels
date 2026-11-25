@@ -43,3 +43,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-24 #64 mclaren-f1-gold-engine-bay, hook "LINED WITH REAL GOLD", 30 s concept, SKILL CTA, slot 5
 2026-11-24 #65 sodium-filled-valves, hook "THIS VALVE HOLDS LIQUID METAL", 30 s concept, SKILL CTA, slot 6 (queued wave 3)
 2026-11-25 #66 electric-turbo, hook "THIS TURBO HAS A MOTOR", 30 s concept, SKILL CTA, slot 1 (queued wave 1). Slot 1 took a follow-up topic because #63 anti-lag broke out (10.8k views, about 6x the 30 s median); instead of dual-clutch-gearbox, which stays first in line for the next free slot 1.
+2026-11-25 #68 blow-off-valve-pssh, hook "THAT PSSH PROTECTS YOUR TURBO", 30 s concept, SKILL CTA, slot 3
