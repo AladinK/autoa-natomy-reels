@@ -48,3 +48,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-25 #70 porsche-911-rear-engine, hook "ENGINE IN THE WRONG PLACE", 30 s concept, SKILL CTA, slot 5 (queued wave 3)
 2026-11-25 #69 nissan-vc-turbo-variable-compression, hook "THIS ENGINE RESHAPES ITSELF", 30 s concept, SKILL CTA, slot 4
 2026-11-25 #71 supercharger-whine, hook "THAT WHINE IS CHOPPED AIR", 30 s concept, SKILL CTA, slot 6 (queued wave 3)
+2026-11-26 #72 dual-clutch-gearbox, hook "THE NEXT GEAR IS ALREADY IN", 30 s concept, SKILL CTA, slot 1 (queued wave 1). Default topic kept: the anti-lag breakout (#63, 17.7k) was already followed up on 25 Nov (#66 electric turbo 1.4k, #67 bugatti 6.7k, #68 blow-off 3.2k, #71 supercharger 1.2k) and the follow-ups did not replicate it, so the hook type ("does X on purpose") is the lever, not the forced-induction family.
