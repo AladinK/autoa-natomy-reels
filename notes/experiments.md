@@ -52,3 +52,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-26 #73 diesel-runaway, hook "THIS DIESEL WON'T SHUT OFF", 30 s concept, SKILL CTA, slot 2
 2026-11-26 #74 open-differential-one-wheel, hook "POWER GOES TO THE WRONG WHEEL", 30 s concept, SKILL CTA, slot 3
 2026-11-26 #77 variable-geometry-turbo, hook "THIS TURBO CHANGES SHAPE", 30 s concept, SKILL CTA, slot 6 (queued wave 3)
+2026-11-26 #76 sequential-dog-box, hook "RACE CARS SKIP THE CLUTCH", 30 s concept, SKILL CTA, slot 5 (queued wave 3)
