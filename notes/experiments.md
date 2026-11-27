@@ -54,3 +54,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-26 #77 variable-geometry-turbo, hook "THIS TURBO CHANGES SHAPE", 30 s concept, SKILL CTA, slot 6 (queued wave 3)
 2026-11-26 #76 sequential-dog-box, hook "RACE CARS SKIP THE CLUTCH", 30 s concept, SKILL CTA, slot 5 (queued wave 3)
 2026-11-27 #78 diesel-no-spark-plugs, hook "NO SPARK PLUGS / IT STILL FIRES", 30 s concept, SKILL CTA, slot 1 (queued wave 1). Slot 1 took this follow-up because #73 diesel-runaway broke out (19.3k views, about 8x the 30 s median); torsen-differential stays first in line for the next free slot 1.
+2026-11-27 #79 carbon-ceramic-brakes-glow, hook "RED HOT, STILL STOPPING", 30 s concept, SKILL CTA, slot 2
