@@ -14,3 +14,4 @@ To pause the offer (no more PayPal replies), set "offer_active" to false in note
 2026-11-24 22:42 | replies 1 (reels: DgH7DkwlUy8) | waiting 0 | errors: -
 2026-11-25 16:43 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped)
 2026-11-26 06:42 | replies 1 (reels: DgKf5GesaC4) | waiting 0 | errors: -
+2026-11-27 18:44 | replies 0 (reels: -) | waiting 0 | errors: PayPal 401 Unauthorized (payment check skipped)
