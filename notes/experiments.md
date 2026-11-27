@@ -57,3 +57,4 @@ Review: after 5-7 days compare the 30 s reels against the old median (1.8k views
 2026-11-27 #79 carbon-ceramic-brakes-glow, hook "RED HOT, STILL STOPPING", 30 s concept, SKILL CTA, slot 2
 2026-11-27 #81 ev-no-gearbox, hook "ELECTRIC CARS HAVE ONE GEAR", 30 s concept, SKILL CTA, slot 4
 2026-11-27 #80 dry-sump-lubrication, hook "RACE ENGINES EMPTY THEIR OIL PAN", 30 s concept, SKILL CTA, slot 3 (queued wave 2). Firecrawl was out of credits, so facts were verified with web search plus opened pages (Wikipedia Dry sump, Jalopnik, EngineLabs, Hagerty).
+2026-11-27 #82 chrysler-turbine-car, hook "THIS CAR RAN ON TEQUILA", 30 s concept, SKILL CTA, slot 5 (queued wave 3). Firecrawl MCP credits were used up for the day, so the fact pages were opened with WebFetch (SlashGear, Yahoo Autos) instead.
